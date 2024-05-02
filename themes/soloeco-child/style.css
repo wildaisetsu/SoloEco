@@ -1,0 +1,23 @@
+/**
+Theme Name: Solo Eco Theme
+Author: Wilson Castiblanco
+Author URI: https://www.behance.net/wil_castiblanco
+Description: Theme hecho para la plataforma de E-Commerce www.soloeco.co
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: solo-eco-theme
+Template: astra
+*/
+
+
+@font-face {
+    font-family: 'AvenirNextMedium';
+    src: url('./assets/fonts/avenir-next-medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.body-font {
+    font-family: 'AvenirNextMedium', sans-serif;
+}

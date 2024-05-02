@@ -1,0 +1,13 @@
+
+
+
+@font-face {
+    font-family: 'AvenirNextMedium';
+    src: url('../fonts/avenir-next-medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.body-font {
+    font-family: 'AvenirNextMedium', sans-serif;
+}
